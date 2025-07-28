@@ -6,7 +6,7 @@ permalink: /publication/2019-landsat-consistent
 excerpt: 'This paper examines the impacts of data resampling, cloud and cloud shadow detection, Bidirectional Reflectance Distribution Function (BRDF) correction, and topographic correction on the temporal consistency of the Landsat Time Series (LTS), by comparing Landsat Collection 1 ARD with standard Path/Row scenes'
 date: 2019-10-01
 venue: 'Remote Sensing'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Shi Qiu, Yukun Lin, Rong Shang, Junxue Zhang, Lei Ma, Zhe Zhu. (2019). &quot;Making Landsat time series consistent: Evaluating and improving Landsat analysis ready data.&quot; <i>Remote Sensing</i>. 11(1).'
 ---
