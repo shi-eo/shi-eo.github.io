@@ -3,7 +3,7 @@ title: "Can Landsat 7 preserve its science capability with a drifting orbit?"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-landsat7-orbit-drift
-excerpt: 'This paper is the first to report the orbital drift of the Landsat 7 satellite and its impact on reflectance. The findings summarized in this study currently serve as foundational information about Landsat 7, as featured in.'
+excerpt: 'This paper is the first to report the orbital drift of the Landsat 7 satellite and its impact on reflectance. <b>The findings summarized in this study currently serve as foundational information about Landsat 7, as featured in <a href="https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T1_L2#description">Google Earth Engine</a>.</b>'
 date: 2021-12-01
 venue: 'Science of Remote Sensing'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
