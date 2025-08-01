@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Can Landsat 7 preserve its science capability with a drifting orbit?"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+excerpt: 'This paper is the first to report the orbital drift of the Landsat 7 satellite and its impact on reflectance. <b>The findings summarized in this study currently serve as foundational information about Landsat 7, as featured in <a href='https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C02_T1_L2#description'> Google Earth Engine </a>.</b>'
+date: 2021-12-01
+venue: 'Science of Remote Sensing'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Shi Qiu, Zhe Zhu, Rong Shang, Christopher J Crawford (2021). &quot;Can Landsat 7 preserve its science capability with a drifting orbit?.&quot; <i>Science of Remote Sensing</i>. 4.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<b>Abstract</b>: Since 2017, the orbit of Landsat 7 has drifted outside its nominal mission requirement toward an earlier acquisition time because of limited onboard fuel resources. This makes quantitative analyses from Landsat 7 data potentially unreliable for many scientific studies. To comprehensively understand the effect of ongoing (2018–2020) orbit drift on Landsat 7 data, we compared surface reflectance and Top-Of-Atmosphere (TOA) reflectance of growing season observations (July 1 ± 30 days) from Landsat 7 with orbit drift and Landsat 8 with nominal orbit using a total of 10,000 randomly selected Northern Hemisphere (0–750 N) terrestrial pixels. To evaluate the future (2021–2023) effect of Landsat 7's orbit drift, we analyzed the historical Northern Hemisphere terrestrial growing season Earth Observing-1 (EO-1) TOA reflectance images, which shared a similar orbit drift as Landsat 7 but occurred much earlier. Results suggest that Landsat 7's orbit drift has already led to a general decrease in surface reflectance and TOA reflectance in 2019 and 2020, with a limited impact (overall reflectance changes less than 0.007). The influence of orbit drift is more substantial for the two shortwave infrared (SWIR) bands and the near infrared (NIR) band, but less for the three visible bands (i.e., Red, Green, and Blue). The Normalized Difference Vegetation Index (NDVI), derived from either surface reflectance or TOA reflectance, increased less than 0.003 in 2020. According to the historical EO-1 TOA reflectance data, we estimate that the effect of Landsat 7's orbit drift will be much more dramatic in the future (e.g., the NIR and SWIR bands will decrease more than 0.015 since July 1, 2021), and for different land cover types, the effects of orbit drift are also quite different. To reduce this influence, we examined the c-factor Bidirectional Reflectance Distribution Function (BRDF) normalization approach to correct the orbit drift impact for Landsat 7 surface reflectance data collected between 2019 and 2020. We found that the c-factor BRDF can reduce the data difference substantially, but how this approach works after Landsat 7's orbit drifts further still requires more investigation. Therefore, we determined that Landsat 7 can preserve its science capability until 2020, but will be less reliable for remote sensing applications that need accurate absolute radiometric values after 2020. Correction methods such as c-factor BRDF could be a potential viable approach to maintain its science capability going forward.
