@@ -3,7 +3,7 @@ title: "Making Landsat Time Series Consistent: Evaluating and Improving Landsat 
 collection: publications
 category: manuscripts
 permalink: /publication/2019-landsat-ard-consistent
-excerpt: 'This paper examines the impacts of data resampling, cloud and cloud shadow detection, Bidirectional Reflectance Distribution Function (BRDF) correction, and topographic correction on the temporal consistency of the Landsat Time Series (LTS), by comparing Landsat Collection 1 ARD with standard Path/Row scenes'
+excerpt: 'This paper examines the impacts of data resampling, cloud and cloud shadow detection, Bidirectional Reflectance Distribution Function (BRDF) correction, and topographic correction on the temporal consistency of the Landsat Time Series (LTS), by comparing Landsat Collection 1 ARD with standard Path/Row scenes.'
 date: 2018-12-29
 venue: 'Remote Sensing'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
