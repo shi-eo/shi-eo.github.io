@@ -2,7 +2,7 @@
 title: "Evaluation of Landsat image compositing algorithms"
 collection: publications
 category: manuscript
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2023-composite
 excerpt: 'This paper introduces a new image compositing algorithm (MAX-RNB) based on the maximum ratio of Near Infrared (NIR) to Blue band (RNB), and evaluated it together with nine other compositing algorithms: MAX-NDVI (maximum Normalized Difference Vegetation Index), MED-NIR (median NIR band), WELD (conterminous United States Web-Enabled Landsat Data), BAP (Best Available Pixel), PAC (Phenology Adaptive Composite), WPS (Weighted Parametric Scoring), MEDOID (medoid measurement), COSSIM (cosine similarity), and NLCD (National Land Cover Database).'
 date: 2023-02-01
 venue: 'Remote Sensing of Environment'
