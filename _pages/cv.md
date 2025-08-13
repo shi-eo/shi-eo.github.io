@@ -11,35 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Remote Sensing, University of Electronic Science and Technology of China, 2018
+* B.S. in Spatial Information & Digital Technology, Chengdu University of Technology, China, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - Present: Research Assistant Professor
+  * Department of Natural Resources and the Environment
+  * University of Connecticut, Storrs, CT
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - 2022: Postdoctoral Research Associate
+  * Department of Natural Resources and the Environment
+  * University of Connecticut, Storrs, CT
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - 2022: Visiting Research Assistant
+  * Department of Geosciences
+  * Texas Tech University, Lubbock, TX
   
-Skills
+* 2017 - 2018: Visiting Scholar
+  * Department of Geosciences
+  * Texas Tech University, Lubbock, TX
+  
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * MATLAB
+  * C#
+  * JavaScript
+  * HTML
+* Geospatial Software
+  * ENVI
+  * ArcGIS
+  * QGIS
+* Computing Platforms
+  * HPC (High-Performance Computing; SLURM)
+  * GEE (Google Earth Engine)
 
 Publications
 ======
