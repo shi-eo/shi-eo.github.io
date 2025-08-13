@@ -35,16 +35,10 @@ Work experience
 Technical skills
 ======
 * Programming
-  * Python
-  * MATLAB
-  * C#
-  * JavaScript
-  * HTML
-* Geospatial Software
-  * ENVI
-  * ArcGIS
-  * QGIS
-* Computing Platforms
+  * Python; MATLAB; C#; Java; JavaScript; HTML
+* Geospatial software
+  * ENVI; ArcGIS; QGIS
+* Computing platforms
   * HPC (High-Performance Computing; SLURM)
   * GEE (Google Earth Engine)
 
