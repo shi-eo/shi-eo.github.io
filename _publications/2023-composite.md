@@ -3,7 +3,7 @@ title: "Evaluation of Landsat image compositing algorithms"
 collection: publications
 category: manuscript
 permalink: /publication/2023-composite
-excerpt: 'This paper introduces a new image compositing algorithm (MAX-RNB) based on the maximum ratio of Near Infrared (NIR) to Blue band (RNB), and evaluated it together with nine other compositing algorithms: MAX-NDVI (maximum Normalized Difference Vegetation Index), MED-NIR (median NIR band), WELD (conterminous United States Web-Enabled Landsat Data), BAP (Best Available Pixel), PAC (Phenology Adaptive Composite), WPS (Weighted Parametric Scoring), MEDOID (medoid measurement), COSSIM (cosine similarity), and NLCD (National Land Cover Database). <b>The method is one of the benchmarks compared with the AlphaEarth Satellite Embedding Dataset (see the paper)</b>/>
+excerpt: 'This paper introduces a new image compositing algorithm (MAX-RNB) based on the maximum ratio of Near Infrared (NIR) to Blue band (RNB), and evaluated it together with nine other compositing algorithms: MAX-NDVI (maximum Normalized Difference Vegetation Index), MED-NIR (median NIR band), WELD (conterminous United States Web-Enabled Landsat Data), BAP (Best Available Pixel), PAC (Phenology Adaptive Composite), WPS (Weighted Parametric Scoring), MEDOID (medoid measurement), COSSIM (cosine similarity), and NLCD (National Land Cover Database). <b> The method is one of the benchmarks compared with the <a href="https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL"> Google AlphaEarth Satellite Embedding Dataset</a> (see the <a href="https://arxiv.org/pdf/2507.22291">paper</a>)</b>/>
 '
 date: 2023-02-01
 venue: 'Remote Sensing of Environment'
