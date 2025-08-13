@@ -3,7 +3,7 @@ title: "Remote Sensing of Environment"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-fall-rse
-venue: "University of Connecticut"
+venue: "University of Connecticut, Department of Natural Resources and the Environment"
 date: 2022-08-29
 location: "Storrs, USA"
 ---
