@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Remote Sensing, University of Electronic Science and Technology of China, 2018
+* Ph.D. in Remote Sensing, University of Electronic Science and Technology of China, 2018
 * B.S. in Spatial Information & Digital Technology, Chengdu University of Technology, China, 2012
 
 Work experience
