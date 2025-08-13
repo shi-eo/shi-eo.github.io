@@ -3,7 +3,7 @@ title: "Cirrus clouds that adversely affect Landsat 8 images: What are they and 
 collection: publications
 category: manuscripts
 permalink: /publication/2022-cirrus-mask
-excerpt: 'This paper introduces the Fmask 4 algorithm, which is <b>currently used to generate the quality assessment band for <a href="https://hls.gsfc.nasa.gov"> NASA’s Harmonized Landsat and Sentinel-2 (HLS) data</a> (see <a href="https://doi.org/10.1016/j.rse.2025.114723">this paper</a> for details)</b>.'
+excerpt: 'This paper not only introduces an algorithm called Cmask (Cirrus cloud mask) for cirrus cloud detection in Landsat 8 imagery using time series of Cirrus Band, but also quantifies the effect of increasing Cirrus Band TOA reflectance on the surface reflectance of spectral bands.'
 date: 2020-09-01
 venue: 'Remote Sensing of Environment'
 paperurl: 'http://shi-eo.github.io/files/2022-cirrus-mask.pdf'
