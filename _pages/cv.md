@@ -16,22 +16,22 @@ Education
 
 Work experience
 ======
-* 2022 - Present: Research Assistant Professor
+* 2022/08 - Present: Research Assistant Professor
   * Department of Natural Resources and the Environment
   * University of Connecticut, Storrs, CT
 
-* 2019 - 2022: Postdoctoral Research Associate
+* 2019/03 - 2022/08: Postdoctoral Research Associate
   * Department of Natural Resources and the Environment
   * University of Connecticut, Storrs, CT
 
-* 2019 - 2022: Visiting Research Assistant
+* 2019/01 - 2019/02: Visiting Research Assistant
   * Department of Geosciences
   * Texas Tech University, Lubbock, TX
   
-* 2017 - 2018: Visiting Scholar
+* 2017/09 - 2018/09: Visiting Scholar
   * Department of Geosciences
   * Texas Tech University, Lubbock, TX
-  
+
 Technical skills
 ======
 * Programming
@@ -51,13 +51,13 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
