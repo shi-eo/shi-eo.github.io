@@ -7,7 +7,7 @@ excerpt: 'This paper is the first to report the orbital drift of the Landsat 7 s
 date: 2021-12-01
 venue: 'Science of Remote Sensing'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://academicpages.github.io/files/2021-l7-orbit.pdf'
 citation: 'Shi Qiu, Zhe Zhu, Rong Shang, Christopher J Crawford (2021). &quot;Can Landsat 7 preserve its science capability with a drifting orbit?.&quot; <i>Science of Remote Sensing</i>. 4.'
 ---
 
