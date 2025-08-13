@@ -1,5 +1,5 @@
 ---
-title: "Making Landsat Time Series Consistent: Evaluating and Improving Landsat Analysis Ready Data"
+title: "Making Landsat time series consistent: Evaluating and improving Landsat analysis ready data"
 collection: publications
 category: manuscripts
 permalink: /publication/2019-landsat-ard-consistent
