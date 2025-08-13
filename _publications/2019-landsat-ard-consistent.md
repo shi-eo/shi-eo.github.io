@@ -7,7 +7,7 @@ excerpt: 'This paper examines the impacts of data resampling, cloud and cloud sh
 date: 2018-12-29
 venue: 'Remote Sensing'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://academicpages.github.io/files/2019-ard-consistent.pdf'
 citation: 'Shi Qiu, Yukun Lin, Rong Shang, Junxue Zhang, Lei Ma, Zhe Zhu. (2019). &quot;Making Landsat time series consistent: Evaluating and improving Landsat analysis ready data.&quot; <i>Remote Sensing</i>. 11(1).'
 ---
 
