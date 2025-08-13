@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
+* [Profile](https://scholar.google.com/citations?user={{ site.data.scholar.id }})
+* Citations: {{ site.data.scholar.citations }}
+* h-index: {{ site.data.scholar.h_index }}
+* i10-index: {{ site.data.scholar.i10_index }}
   <div class="wordwrap">This page displays only my first- and corresponding-author articles. You can find all of my publications on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
 {% endif %}
 
