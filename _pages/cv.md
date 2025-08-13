@@ -32,7 +32,7 @@ Work experience
   * Department of Geosciences
   * Texas Tech University, Lubbock, TX
   
-Technical Skills
+Technical skills
 ======
 * Programming
   * Python
