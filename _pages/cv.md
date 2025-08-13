@@ -42,6 +42,10 @@ Technical skills
   * HPC (High-Performance Computing; SLURM)
   * GEE (Google Earth Engine)
 
+Languages
+======
+English; Mandarin
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
