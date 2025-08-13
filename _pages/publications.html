@@ -4,7 +4,10 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-  <div class="wordwrap">This page displays only my first- and corresponding-author articles. You can find all of my publications on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can find all my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
+  <div class="wordwrap">This page only shows my first-/corresponding-authored articles. You can find all my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
 {% endif %}
 
 {% include base_path %}
