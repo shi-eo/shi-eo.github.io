@@ -3,7 +3,7 @@ title: "Remote Sensing Image Processing"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-spring-rsip
-venue: "University of Connecticut, Department"
+venue: "University of Connecticut, Department of Natural Resources and the Environment"
 date: 2025-01-21
 location: "Storrs, USA"
 ---
