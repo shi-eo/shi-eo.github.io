@@ -2,7 +2,7 @@
 title: "Detection and characterization of land disturbances based on Landsat time series"
 collection: talks
 type: "Talk"
-permalink: /talks/2021-agu.md
+permalink: /talks/2021-talk-agu
 venue: "AGU (American Geophysical Union) Fall Meeting 2021"
 date: 2021-12-16
 location: "New Orleans, LA, USA"
