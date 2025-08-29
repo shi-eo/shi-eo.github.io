@@ -1,6 +1,6 @@
 ---
 title: "Comparison of machine learning models for mapping medium-resolution land cover and land change"
-collection: talks
+collection: Conference talks
 type: "Talk"
 permalink: /talks/2024-talk-aag
 venue: "2024 Association of American Geographers (AAG) Annual Meeting"
