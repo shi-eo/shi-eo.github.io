@@ -3,7 +3,7 @@ title: "Land disturbance detection and characterization based on dense Landsat t
 collection: talks
 type: "Talk"
 permalink: /talks/2021-talk-nre
-venue: "UCONN NRE Seminar Series 2021"
+venue: "UCONN NRE 2021 Seminar Series "
 date: 2021-10-29
 location: "Storrs, CT, USA"
 ---
