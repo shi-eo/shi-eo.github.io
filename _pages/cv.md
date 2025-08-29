@@ -66,13 +66,13 @@ Teaching
   
 Service and leadership
 ======
-Institutional:
-•	2024 – Present, NRE Seminar Committee, UConn
-•	2024 – Present, NRE Graduate Program/Admission Committee, UConn
-Professional:
-Editorial:
-•	Editorial board, 2023 - Present, Remote Sensing of Environment
-Conference Session Convener:
-•	AGU 2025, Science and Applications Enabled by Remote Sensing Data Fusion, Time Series Analysis, and AI [upcoming]
-•	AAG 2024, Monitoring and Characterization of Land Change Using Satellite Time Series
+* Institutional:
+  * 2024 – Present, NRE Seminar Committee, UConn
+  * 2024 – Present, NRE Graduate Program/Admission Committee, UConn
+* Professional:
+* Editorial:
+  * Editorial board, 2023 - Present, Remote Sensing of Environment
+  * Conference Session Convener:
+    * AGU 2025, Science and Applications Enabled by Remote Sensing Data Fusion, Time Series Analysis, and AI [upcoming]
+    * AAG 2024, Monitoring and Characterization of Land Change Using Satellite Time Series
 
