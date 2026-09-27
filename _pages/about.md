@@ -4,6 +4,7 @@ permalink: /
 title: "Shi Qiu | Remote Sensing and Land Change Science"
 author_profile: false
 ---
+{::nomarkdown}
 <!doctype html>
 <html lang="en">
 <head>
@@ -150,3 +151,5 @@ search.addEventListener('input', () => {if(search.value.trim()) activeFilter = '
 applyFilters();
 
 </script></body></html>
+
+{:/nomarkdown}
